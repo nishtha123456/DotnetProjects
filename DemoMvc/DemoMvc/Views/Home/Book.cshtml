@@ -1,0 +1,18 @@
+﻿@model DemoMvc.Models.Book
+@{
+    ViewBag.Title = "Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Message</h2>
+<table class="table">
+	<thead>
+		<th>Book Id</th>
+		<th>Book Name</th>
+	</thead>
+		<tbody>
+			<td>@Model.Id</td>
+			<td> @Model.Name</td>
+		</tbody>
+
+</table>

@@ -1,0 +1,2 @@
+F:\React-project\StudentInfo\obj\Debug\StudentInfo.csproj.AssemblyReference.cache
+F:\React-project\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
